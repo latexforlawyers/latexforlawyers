@@ -1,5 +1,7 @@
 # Project Scheme #
 
+*Please, add or edit issues as they arise, and answer in list mode with your name tag, or by just ading your name if you agree with a proposal.*
+
 ## Definition and issues ##
 
 The goal of the  LaTeX for Lawyers project is to:
@@ -19,7 +21,9 @@ At the moment, the main issues to be decided are:
 4. Creating a general scheme for document templates and macro creation
   1. Deciding on some general macro names and implementation rules
   2. Deciding whether we can have some shared macros in a stand-alone package
-5. Building the website once we have enough information (see fork)
+5. Building the repository structure
+  - A possibility is to have one repository per country (or style if there are very different ones), and then files and folders containing whatever structure we want to give our documents, e.g. `/biblatex/`, `/legal-memo/`, `/xxxxx-law.cls`, etc. *@ienissei*
+6. Building the website once we have enough information (see fork)
   1. The website should be “lawyer-friendly” and explain our goals and aims
   2. It could show our work and the progress we are making, perhaps through diagrams
   3. It should tell people how they can help (by joining the crew or sending us samples of what they need)
