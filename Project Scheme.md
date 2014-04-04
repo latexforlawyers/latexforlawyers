@@ -1,8 +1,5 @@
 # Project Scheme #
 
-Contents:
-[Definition-and-issues]
-
 ## Definition and issues ##
 
 The goal of the  LaTeX for Lawyers project is to:
