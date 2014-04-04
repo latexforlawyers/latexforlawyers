@@ -9,6 +9,7 @@ The goal of the  LaTeX for Lawyers project is to:
 Our aim in doing this is to coordinate work and produce set of styles which “play nicely” together, not to produce a single “one-size-fits-all” package – basically, lawyers should be able to use the different packages without having to learn everything again from scratch or radically change their documents. There may be useful macros and tools we can share, but we seek mainly seek compatibility.
 
 At the moment, the main issues to be decided are:
+
 1. Licensing the project and deciding on a licensing policy
   - Would propose the LPPL for distribution through TeXLive and others, and also because I like the maintainer clause. If the author is no longer involved, someone else can legally step in. Also, I would suggest that we always put `latexforlawyers` as a “secondary” maintainer so other project members will get priority and we can also insure to keep the works within our organisation. *@ienissei*
 2. Contacting people who work on related projects, e.g. `juradiss`
